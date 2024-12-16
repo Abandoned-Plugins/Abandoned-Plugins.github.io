@@ -1,5 +1,5 @@
 title: Abandoned Plugins 
 description: Supporting the WordPress community by maintaining useful plugins abandoned by other developers.
-show_downloads: true
+show_plugins: true
 google_analytics:
 theme: jekyll-theme-cayman
